@@ -12,5 +12,5 @@ I'm a passionate Android App Developer with a strong foundation in building mobi
 ### 🌱 What I’m Learning
 - Continuously exploring advanced Android development techniques, libraries and best practices to improve app performance and architecture.
 
-🤝 Let’s Collaborate
+### 🤝 Let’s Collaborate
 - I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
