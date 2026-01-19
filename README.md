@@ -43,22 +43,16 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
   <img src="https://streak-stats.demolab.com/?user=labib-ur-rahman&theme=radical" alt="GitHub Streak" width="310"/>
 </p>
 
----
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🏆 GitHub Trophies
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=labib-ur-rahman&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
 
----
-
-##
-
-<br>
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
 </picture>
-<br>
-<br>
