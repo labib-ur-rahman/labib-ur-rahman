@@ -33,20 +33,10 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
   <img src="https://img.shields.io/github/followers/firadfd?label=Follow&style=social" alt="labib-ur-rahman" />
 </p>
 
-
+<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
 </h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labib-ur-rahman&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib-ur-rahman&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=labib-ur-rahman&theme=radical" alt="GitHub Streak" width="310"/>
-</p>
-
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## GitHub Statistics
-
 <p align="center">
   <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
