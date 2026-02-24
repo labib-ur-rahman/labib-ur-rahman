@@ -1,3 +1,13 @@
+<!-- Header with animated gradient and 3D effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
+</p>
+
+<!-- Rainbow divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+
+
 ### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=👋+Hi,+I'm+Labib)
 I'm a passionate Mobile App Developer with a strong foundation in building mobile applications using modern technologies. I love exploring new tools and improving my skills to deliver efficient, scalable, and user-friendly applications.
 
@@ -40,6 +50,18 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 <p align="center">
   <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
+
+
+<!-- Profile cards with glow effect -->
+
+
+<div align="center">
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labib-ur-rahman&theme=radical)
+  
+</div>
+
+
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <picture>
