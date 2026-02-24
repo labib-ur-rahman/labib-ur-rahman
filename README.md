@@ -29,7 +29,7 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 - I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=firadfd&label=Profile%20views&color=0e75b6&style=flat" alt="labib-ur-rahman" />
+  <img src="https://komarev.com/ghpvc/?username=labib-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="labib-ur-rahman" />
   <img src="https://img.shields.io/github/followers/labib-ur-rahman?label=Follow&style=social" alt="labib-ur-rahman" />
 </p>
 
