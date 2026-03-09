@@ -1,59 +1,90 @@
-<!-- Header with animated gradient and 3D effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6F10F7&center=true&width=600&duration=4000&repeat=true&lines=Flutter+Developer;Kotlin+Enthusiast;Jetpack+Compose+Multiplatform" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+I'm+Labib;Flutter+Developer;Kotlin+Enthusiast;Building+Scalable+Mobile+Apps" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=labib-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/labib-ur-rahman?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 <!-- Rainbow divider -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-
-
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=👋+Hi,+I'm+Labib)
-I'm a passionate Mobile App Developer with a strong foundation in building mobile applications using modern technologies. I love exploring new tools and improving my skills to deliver efficient, scalable, and user-friendly applications.
-
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🛠️+Skills+&+Technologies)
-- <b>Languages:</b>  ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=6aa6f8)
-![Kotlin](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=6aa6f8)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-- <b>App Development:</b>  ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=6aa6f8)
-![Android SDK](https://img.shields.io/badge/Tool-Android%20SDK-informational?style=flat&logo=android&logoColor=white&color=6aa6f8)
-![MVVM](https://img.shields.io/badge/Architecture-MVVM-informational?style=flat&logo=android&logoColor=white&color=6aa6f8)
-![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-informational?style=flat&logo=jetpackcompose&logoColor=white&color=6aa6f8)
-- <b>Backend & APIs:</b>  ![Firebase](https://img.shields.io/badge/Backend-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
-![Retrofit](https://img.shields.io/badge/Network-Retrofit-informational?style=flat&logo=android&logoColor=white&color=6aa6f8)
-![REST API](https://img.shields.io/badge/API-REST-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
-![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-- <b>Tools & Version Control</b> ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
-![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=6aa6f8)
-- <b>Frontend & Web:</b> ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
-![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
-![WordPress](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=6aa6f8)
-
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🌱+What+I’m+Learning)
-- Continuously exploring advanced Android development techniques, libraries and best practices to improve app performance and architecture.
-
-### ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&width=435&lines=🤝+Let’s+Collaborate)
-- I'm open to working on exciting Android projects and learning from the developer community. Feel free to connect with me here on GitHub!
+<a href="#">
+  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</a>
+<br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=labib-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="labib-ur-rahman" />
-  <img src="https://img.shields.io/github/followers/labib-ur-rahman?label=Follow&style=social" alt="labib-ur-rahman" />
+  Flutter Developer with proven expertise in building production-ready mobile applications for Google Play Store and Apple App Store. Specialized in real-time communication, AI integration, and scalable cross-platform solutions.
 </p>
 
-<a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=435&lines=📊+GitHub+Stats" alt="Typing SVG" />
-</h3>
+## Portfolio
+
+<p align="center">
+  <a href="https://devlabib.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%230AA5FF.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  Explore my portfolio featuring published apps, AI-powered solutions, and open-source contributions.
+</p>
+
+
+## About Me
+
+```yaml
+Current Role: Flutter Developer @ Softvence Agency | Dhaka, Bangladesh
+Experience: Delivered 5+ published apps on Play Store & App Store
+Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
+Education: BSc in Computer Science and Engineering, DIU (CGPA 3.82/4.0)
+Philosophy: Building scalable, user-focused mobile solutions with clean architecture
+```
+
+ 
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/labib-ur-rahman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+ 
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+ 
+
+## Core Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GetX-FF4081?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+  <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
+  <img src="https://img.shields.io/badge/Wordpress-34A853?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+
+
+## GitHub Statistics
+
+
+
+<p align="center">
 <p align="center">
   <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
 
 
 <!-- Profile cards with glow effect -->
-
 
 <div align="center">
   
@@ -67,4 +98,9 @@ I'm a passionate Mobile App Developer with a strong foundation in building mobil
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
-</picture>
+</picture></p>
+
+
+<p align="center">
+  <i>Open to collaboration on innovative Flutter projects and consulting opportunities.</i>
+</p>
