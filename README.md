@@ -36,7 +36,7 @@
 Current Role: Flutter Developer @ Softvence Agency | Dhaka, Bangladesh
 Experience: Delivered 2+ published apps on Play Store & App Store
 Specialization: Flutter, Real-time Communication (Agora), AI Integration, Payment Systems
-Education: BSc in Computer Science and Engineering, DIU (CGPA 3.82/4.0)
+Education: BSc in Computer Science and Engineering, Uttara University
 Philosophy: Building scalable, user-focused mobile solutions with clean architecture
 ```
 
