@@ -54,6 +54,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
   </a>
 </p>
 
+
  
 
 ## Core Technologies
@@ -74,9 +75,49 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 
 
 
+
+## Published Applications
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Go Get A Genie</h3>
+      <p align="center">
+        <strong>Role:</strong> Project Lead & Flutter Developer
+      </p>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.gogetagenie.app" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </p>
+      <p align="center">
+        An AI-powered project and task management application built with Flutter. Boost your productivity with intelligent task planning, AI-assisted project creation, and smart chatbot assistance.
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Deep Quran</h3>
+      <p align="center">
+        <strong>Role:</strong> Quran Module Owner
+      </p>
+      <p align="center">
+        <a href="https://apps.apple.com/us/app/#" target="_blank">
+          <img src="https://img.shields.io/badge/App_Store-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.deepquran.app" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+        </a>
+      </p>
+      <p align="center">
+        Islamic learning platform featuring audio recitation, translations, and optimized reading experience with focus on performance and accessibility.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## GitHub Statistics
-
-
 
 <p align="center">
 <p align="center">
@@ -91,7 +132,6 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
   ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labib-ur-rahman&theme=radical)
   
 </div>
-
 
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
