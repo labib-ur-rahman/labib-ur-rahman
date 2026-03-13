@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+I'm+Labib;Flutter+Developer;Kotlin+Enthusiast;Building+Scalable+Mobile+Apps" alt="Typing Animation" />
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Assalamu+Alaikum,+I'm+Labib;Flutter+Developer;Kotlin+Enthusiast;Building+Scalable+Mobile+Apps" alt="Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=labib-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/labib-ur-rahman?label=Follow&style=social" alt="GitHub followers" />
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=labib-ur-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="#"><img src="https://img.shields.io/github/followers/labib-ur-rahman?label=Follow&style=social" alt="GitHub followers" /></a>
 </p>
 
 <!-- Rainbow divider -->
@@ -60,17 +62,19 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 ## Core Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/GetX-FF4081?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
-  <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
-  <img src="https://img.shields.io/badge/Wordpress-34A853?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/GetX-FF4081?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+    <img src="https://img.shields.io/badge/REST%20API-%23013243.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+    <img src="https://img.shields.io/badge/Agora-%23099DFD.svg?style=for-the-badge&logo=agora&logoColor=white" alt="Agora"/>
+    <img src="https://img.shields.io/badge/Wordpress-34A853?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
 </p>
 
 
@@ -121,7 +125,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 
 <p align="center">
 <p align="center">
-  <img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  <a href="#"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/></a>
 </p>
 
 
@@ -129,7 +133,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 
 <div align="center">
   
-  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labib-ur-rahman&theme=radical)
+  <a href="#"> ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labib-ur-rahman&theme=radical) </a>
   
 </div>
 
@@ -137,8 +141,12 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
-</picture></p>
+  <a href="#">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/labib-ur-rahman/labib-ur-rahman/output/snake.svg">
+  </a>
+</picture>
+
+</p>
 
 
 <p align="center">
