@@ -123,14 +123,17 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
 
 ## GitHub Statistics
 
-<p align="center">
+
 <p align="center">
   <a href="#"><img width="50%" src="https://nirzak-streak-stats.vercel.app/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/></a>
 </p>
 
+<p align="center">
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labib-ur-rahman&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" /></a>
+</p>
 
 <!-- Profile cards with glow effect -->
-
+<p align="center">
 <div align="center">
   
   <a href="#"> ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=labib-ur-rahman&theme=radical) </a>
