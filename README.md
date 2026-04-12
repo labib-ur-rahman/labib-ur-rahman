@@ -51,7 +51,7 @@ Philosophy: Building scalable, user-focused mobile solutions with clean architec
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
  
-  <a href="#" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/labib-ur-rahman/labib-portfolio/Resume-of-Labibur-Apr12.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
