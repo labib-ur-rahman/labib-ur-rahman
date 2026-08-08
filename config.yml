@@ -17,7 +17,7 @@ profile:
 social:
   email: "contact.labibur@gmail.com"
   linkedin: "labib-ur-rahman"
-  website: "https://devlabib.web.app"
+  website: "https://labibur.web.app"
 
 # Galaxy arms represent my core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -29,13 +29,13 @@ galaxy_arms:
       - "Kotlin"
       - "Dart"
       - "Java"
-      - "PHP"
+      - "JavaScript"
   - name: "Mobile Development"
     color: "synapse_cyan"
     items:
       - "Flutter"
       - "XML"
-      - "GetX"
+      - "BLoC"
       - "Riverpod"
   - name: "Backend & Services"
     color: "axon_amber"
@@ -88,4 +88,5 @@ languages:
     - "CSS"
     - "Shell"
     - "Makefile"
+    - "Python"
   max_display: 8               # Maximum number of languages to show
