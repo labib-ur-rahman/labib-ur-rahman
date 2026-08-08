@@ -238,7 +238,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://cdn.jsdelivr.net/gh/labib-ur-rahman/labib-portfolio/md-labibur-rahman-flutter-developer-resume.pdf" target="_blank">
+  <a href="https://cdn.jsdelivr.net/gh/labib-ur-rahman/labib-ur-rahman/flutter-developer-resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-080c14?style=for-the-badge&logo=google-drive&logoColor=efa621" alt="Resume"/>
   </a>
      
