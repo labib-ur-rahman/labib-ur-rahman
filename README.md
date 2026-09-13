@@ -20,13 +20,13 @@
   </a>
 </div>
 
-<br/>
+<!-- <br/>
 
 <div align="center">
   <a href="#">
      <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
   </a>
-</div>
+</div> -->
 
 <br/>
 
